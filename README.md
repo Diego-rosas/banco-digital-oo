@@ -13,3 +13,11 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 
 ### Polimorfismo
 Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele.
+
+
+### Criação do Gitignore
+Para a criação do .gitignore foi usado o site https://www.toptal.com/developers/gitignore, onte foi adicionado as tags "Java", "intellij", "eclipse" e "visual studio code". 
+O site gera um modelo pronto de gitignore onde você pode copiá-lo e adicionar no seu repositório afim de ignorar os arquivos gerados pelas IDEs mais utilizadas atualmente e que não precisam estar no github.
+
+### Resultado final
+![1667019552808](image/README/1667019552808.png)
